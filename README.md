@@ -1,4 +1,4 @@
-#Test match cricket simulator
+# Test match cricket simulator
 
 How to run: Download all the files, and then direct your command line to the folder where the files were downloaded. You may need to download python from https://www.python.org/ first, in order to make it work.
 
@@ -22,3 +22,4 @@ List of the different programs that can be run:
 If you manually edit the team data files, you need to then run the **pickleplayers.py** file, before any changes will show up in your sim.
 
 If you ever want to revert back to the cricinfo-scraped data, you can run the **playersconvert.py** file, and the changes you made will disappear.
+Copyright 2020_Test match cricket simulator
